@@ -1,0 +1,16 @@
+{
+  "name": "siakaddatahack",
+  "version": "1.0.0",
+  "description": "Make a post request to siakad and she will response with their data",
+  "main": "hack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Zamzami",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-html-parser": "^4.1.4",
+    "pug": "^3.0.2"
+  }
+}
